@@ -230,9 +230,9 @@ button.button-current,
 input[type="submit"].button-current,
 input[type="reset"].button-current,
 input[type="button"].button-current {
-  color: #FFF;
-  background-color: #bbb;
-  border-color: #bbb; }
+  color: #DBDADA;
+  /* background-color: #EEEEEE; */
+  border: 1px solid #bbb; }
 .button.button-current:hover,
 button.button-current:hover,
 input[type="submit"].button-current:hover,
@@ -243,13 +243,14 @@ button.button-current:focus,
 input[type="submit"].button-current:focus,
 input[type="reset"].button-current:focus,
 input[type="button"].button-current:focus {
-  color: #FFF;
-  background-color: #bbb;
-  border-color: #bbb; }
+  color: #585858;
+  background-color: #555;
+  border: 1px solid #bbb; }
 
 .disabled {
   pointer-events: none;  /**<-----------*/
   opacity: 0.9;
+  border-color: 1px solid #bbb; 
 }
 
 
