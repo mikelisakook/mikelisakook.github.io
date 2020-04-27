@@ -1,1 +1,0 @@
-Put all gallery photos in this directory 
