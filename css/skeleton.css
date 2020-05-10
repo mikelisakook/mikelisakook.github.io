@@ -188,7 +188,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 4px; 
-  border: 1px solid #bbb; 
+  border: 0px solid #bbb; /* change to 1px to put back the way it was */
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
