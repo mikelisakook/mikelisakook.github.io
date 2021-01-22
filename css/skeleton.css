@@ -156,7 +156,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 p {
   margin-top: 0;
-  font-size: 2.0rem;
+  font-size: 1.5rem;
   font-family: "Montserrat", sans-serif;	
 }
 
@@ -336,7 +336,8 @@ ol ul {
   font-size: 90%; }
 li {
   margin-bottom: 1rem;
-  list-style-type:none;}
+  list-style-type:none;
+  font-size:1.25rem}
 
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
