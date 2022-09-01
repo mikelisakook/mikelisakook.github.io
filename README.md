@@ -1,7 +1,7 @@
 # Mikel Surfboards Website
 
 Welcome to the source code for Mikel Surfboards' website.  Thank you for visiting!
-If you are looking to place an order, please take a look at www.mikelsurfboards.com
+If you are looking for a surfboard or related info, please take a look at www.mikelsurfboards.com
 
 The code is based on a couple of templates:
 skeleton.css www.getskeleton.com
